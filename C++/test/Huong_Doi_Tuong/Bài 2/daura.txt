@@ -1,0 +1,7 @@
+
+Tensach	Tong	Da muon	Con lai
+----------------------------------
+toan	20		4		16
+nguvan	14		5		9
+english	26		17		9
+vatli	16		5		11

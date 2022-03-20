@@ -1,0 +1,7 @@
+Thong tin nhung loai sach con lai trong thu vien tren 10 quyen !
+
+
+Tensach	Tong	Da muon	Con lai
+----------------------------------
+toan	20		4		16
+vatli	16		5		11
